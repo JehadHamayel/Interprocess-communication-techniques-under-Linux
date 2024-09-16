@@ -1,0 +1,16 @@
+AppTime: 10
+Planes: 2
+min number of wheat flour containers: 2
+max number of wheat flour containers: 5
+Drop Period: 20
+Re-fill Period: 2
+collecting relief committees: 3
+collecting relief worker per committees: 1
+spliting relief workers: 15
+number of bags per distribution trip: 10
+distributing workers: 1
+crashed cargo planes threshold: 100
+wheat flour containers been shot threshold: 100
+collecting relief committee workers been martyred threshold: 100
+distributing relief committee workers been martyred threshold: 100
+number of families who passed away threshold: 100
